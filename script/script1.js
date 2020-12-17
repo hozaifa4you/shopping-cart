@@ -1,1 +1,2 @@
 window.navigator;
+window.location;
