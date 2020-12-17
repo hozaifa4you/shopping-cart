@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1"
+  },
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousuf4you/shopping-cart.git"
+  },
+  "author": "yousuf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yousuf4you/shopping-cart/issues"
+  },
+  "homepage": "https://github.com/yousuf4you/shopping-cart#readme",
+  "description": ""
+}
